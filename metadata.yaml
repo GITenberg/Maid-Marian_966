@@ -1,0 +1,36 @@
+_repo: Maid-Marian_966
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Peacock, Thomas Love
+    aliases:
+    - Peacock, T. Love (Thomas Love)
+    - Peacock, T. L. (Thomas Love)
+    birthdate: 1785
+    deathdate: 1866
+    gutenberg_agent_id: '493'
+    url: http://www.gutenberg.org/2009/agents/493
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Love_Peacock
+description: ''
+gutenberg_bookshelf: Historical Fiction
+gutenberg_issued: '1997-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '966'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Adventure stories'
+- !lcsh 'Maid Marian (Legendary character) -- Fiction'
+- !lcsh 'Robin Hood (Legendary character) -- Fiction'
+- !lcsh 'Great Britain -- History -- Richard I, 1189-1199 -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Love stories'
+- !lcsh 'Sherwood Forest (England) -- Fiction'
+- !lcsh 'Women outlaws -- Fiction'
+- !lcsh 'Historical fiction'
+- GITenberg
+title: Maid Marian
+url: http://www.gutenberg.org/ebooks/966
